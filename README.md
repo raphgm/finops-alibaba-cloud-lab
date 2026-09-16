@@ -8,7 +8,7 @@ Companion lab for the article [FinOps on Alibaba Cloud: Cost Visibility, Governa
 
 ---
 
-## 📚 Repository Structure
+## Repository Structure
 
 ```text
 .
@@ -24,7 +24,7 @@ Companion lab for the article [FinOps on Alibaba Cloud: Cost Visibility, Governa
 
 ---
 
-## 🛠️ Quick Start
+## Quick Start
 
 ```bash
 cd terraform && terraform init && terraform apply   # enforce the tagging policy
